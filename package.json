@@ -1,0 +1,26 @@
+{
+  "name": "lacote-ecomerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francofazzio/lacote-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francofazzio/lacote-app/issues"
+  },
+  "homepage": "https://github.com/francofazzio/lacote-app#readme",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.6.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.1.0"
+  }
+}
